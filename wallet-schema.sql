@@ -1,0 +1,1 @@
+-- NovaPay wallet schema is applied through Supabase migrations. See project setup notes in README.
